@@ -21,3 +21,23 @@ Consigli
 - Iniziate stampando un console.log('JS OK') per assicurarvi che la pagina sia  correttamente collegata.
 - Commentate ogni micro step e subito dopo verificate col (console.log())
 - Disattivate Live Server finchè lavoriamo coi prompt o gli alert perchè potrebbe dar luogo a comportamenti strani
+
+/*  SCALETTA
+
+    1- Dichiarare una variabile nome
+    2- Chiedere il nome all'utente
+    3- Salvarlo in una variabile
+
+    4- Dichiarare una variabile cognome
+    5- Chiedere il cognome all'utente
+    6- Salvarlo in una variabile 
+
+    7- Dichiarare una variabile colore
+    8- Chiedere il colore all'utente
+    9- Salvarlo in una variabile
+
+    10- Dichiarare una variabile numero e il suo valore
+
+    11-Recuperare l'elemento HTML
+    12-Modificare il contenuto
+*/
